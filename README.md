@@ -23,7 +23,7 @@ Holding expertise with UX/UI design and Multi-layered S/W designing, development
 
 Skills: VUE JS / REACT / JS / HTML / CSS / PHP / Javascript / Bootstrap / UX/UI design / Multi-layered S/W designing
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on upwork. 
 
 
 
